@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>assets/gymLogo.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>assets/face.png</file>
+        <file>assets/equipment.png</file>
+    </qresource>
+</RCC>

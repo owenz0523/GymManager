@@ -11,7 +11,9 @@ The Gym Management Interface is a comprehensive application built using C++ and 
 
 ## Technology Stack
 **Programming Language:** C++
+
 **GUI Framework:** QT Creator
+
 **Database:** SQL
 
 ## Getting Started
